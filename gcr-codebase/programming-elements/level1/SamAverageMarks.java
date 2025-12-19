@@ -1,4 +1,4 @@
-// Writing java program for calculating average marks
+// Writing java program for calculating average marks of Sam
 
 
 public class SamAverageMarks{

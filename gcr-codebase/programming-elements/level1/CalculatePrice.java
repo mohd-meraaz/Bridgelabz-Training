@@ -1,6 +1,6 @@
 
 
-// java program to input unit price and quantity & calculate  total price.
+// java program to input unit price and quantity & calculate total price.
 
 
 import java.util.Scanner;
