@@ -10,11 +10,11 @@ public class CalculateSimpleInterest{
 	public static void main(String[] args){
 		Scanner Sc = new Scanner(System.in);
 		// Taking user input of all the values
-		System.out.print("Enter Principle amount : ")
+		System.out.print("Enter Principle amount : ");
 		double principal = Sc.nextDouble();
-		System.out.print("\nEnter rate : ")
+		System.out.print("\nEnter rate : ");
 		double rate = Sc.nextDouble();
-		System.out.print("\nEnter time : ")
+		System.out.print("\nEnter time : ");
 		double time = Sc.nextDouble();
 
 		// Calling function
