@@ -3,3 +3,6 @@
 
 # Ignore Java compiled files
 *.class
+
+#ignore all pdf files
+*.pdf
