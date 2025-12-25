@@ -92,3 +92,15 @@ BridgeLabz-Training
 - Pushed changes to GitHub.
 
 ---
+
+
+## 🗓 Day 7 – Built-in Functions & Extra Practice  
+**📅 23 December 2025**
+
+- Practiced Java built-in functions.
+- Developed utility programs such as a temperature converter.
+- Improved understanding of input handling and type conversion.
+- Organized programs into appropriate folders.
+- Finalized and pushed all work to the repository.
+
+---
