@@ -64,3 +64,16 @@ BridgeLabz-Training
 - Pushed all solutions to GitHub.
 
 ---
+
+## 🗓 Day 5 – Arrays & Problem Solving  
+**📅 20 December 2025**
+
+- Learned about arrays:
+  - Single-dimensional arrays  
+  - Multi-dimensional arrays  
+- Practiced array traversal and operations.
+- Solved problems like finding missing elements in arrays.
+- Improved logical thinking using array-based programs.
+
+---
+
