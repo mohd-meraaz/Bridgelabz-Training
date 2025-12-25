@@ -36,3 +36,14 @@ BridgeLabz-Training
 - Committed and pushed Java programs to the repository.
 
 ---
+## 🗓 Day 3 – Java Programming Elements  
+**📅 18 December 2025**
+
+- Learned core Java concepts:
+  - Variables and data types  
+  - Operators  
+  - Input and output operations  
+- Solved practice problems based on programming elements.
+- Updated the repository with completed programs.
+
+---
