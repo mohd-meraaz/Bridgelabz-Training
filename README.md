@@ -28,3 +28,11 @@ BridgeLabz-Training
 - Successfully pushed the initial setup to GitHub.
 
 ---
+## 🗓 Day 2 – Git Practice & Java Basics  
+**📅 17 December 2025**
+
+- Practiced Git workflow to understand version control.
+- Wrote basic Java programs to understand syntax and structure.
+- Committed and pushed Java programs to the repository.
+
+---
