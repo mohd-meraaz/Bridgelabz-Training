@@ -77,3 +77,18 @@ BridgeLabz-Training
 
 ---
 
+## 🗓 Day 6 – Strings & Methods  
+**📅 22 December 2025**
+
+- Studied String concepts:
+  - String creation  
+  - String methods  
+  - Character processing  
+- Implemented string manipulation programs.
+- Learned Java methods:
+  - Method declaration and calling  
+  - Parameter passing  
+- Applied modular programming concepts.
+- Pushed changes to GitHub.
+
+---
