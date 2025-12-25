@@ -47,3 +47,20 @@ BridgeLabz-Training
 - Updated the repository with completed programs.
 
 ---
+
+## 🗓 Day 4 – Control Flow & Logical Constructs  
+**📅 19 December 2025**
+
+- Studied conditional statements:
+  - if, if-else  
+  - switch  
+  - ternary operator  
+- Practiced looping constructs:
+  - for loop  
+  - while loop  
+  - do-while loop  
+- Used `break` and `continue` statements.
+- Solved logical problems such as factorial calculation and prime number checking.
+- Pushed all solutions to GitHub.
+
+---
