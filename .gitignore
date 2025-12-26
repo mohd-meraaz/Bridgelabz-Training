@@ -5,4 +5,4 @@
 *.class
 
 #ignore all pdf files
-*.pdf
+*.pdf.DS_Store
