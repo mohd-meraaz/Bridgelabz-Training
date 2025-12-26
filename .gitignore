@@ -6,3 +6,29 @@
 
 #ignore all pdf files
 *.pdf.DS_Store
+
+# Eclipse specific files
+
+.metadata/
+
+.settings/
+
+.classpath
+
+.project
+
+# Java build output
+
+bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
