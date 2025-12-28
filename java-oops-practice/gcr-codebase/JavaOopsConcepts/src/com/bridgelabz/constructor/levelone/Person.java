@@ -1,5 +1,6 @@
 package com.bridgelabz.constructor.levelone;
 
+
 public class Person {
 	
 	String name ;
@@ -23,6 +24,7 @@ public class Person {
 	
 	public static void main(String[] args) {
 		Person person = new Person("Meraaz", 22.0);
+		
 		
 		Person copyPerson = new Person(person);
 		
