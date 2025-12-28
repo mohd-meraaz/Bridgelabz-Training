@@ -15,3 +15,12 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - Gained clarity on how OOP helps in better code organization and reusability.
 
 ---
+## 🗓 Day 2 – Constructors & Access Modifiers
+
+**📅 27 December 2025**
+
+- Learned the role of **constructors** in initializing objects and setting default values.
+- Understood **access modifiers** (`public`, `protected`, `private`) and how they control data visibility.
+- Practiced using **instance variables** for object-specific data and **class (static) variables** for shared data.
+- Implemented **instance methods** and **static methods** to work with object-level and class-level data.
+- Gained clarity on how these OOP features improve **encapsulation, code structure, and reusability**.
