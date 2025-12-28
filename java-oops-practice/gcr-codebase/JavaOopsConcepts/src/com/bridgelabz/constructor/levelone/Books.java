@@ -5,6 +5,7 @@ public class Books {
 	String title;
 	String author;
 	int price;
+	
 	Books(String title, String author, int price){
 		this.title = title;
 		this.author = author;
@@ -26,8 +27,6 @@ public class Books {
 		Books Monk = new Books("The Monk Who Sold His Ferrari","Robin Sharma",225);
 		Monk.display();
 		
-		
-
 	}
 
 }
