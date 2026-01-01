@@ -22,21 +22,3 @@ class Book {
     }
 }
 
-// Subclass
-class EBook extends Book {
-
-    EBook(String ISBN, String title, String author) {
-        super(ISBN, title, author);
-    }
-
-    void displayBookInfo() {
-        System.out.println("ISBN: " + ISBN);     // public
-        System.out.println("Title: " + title);   // protected
-        System.out.println("Author: " + getAuthor());
-    }
-
-    public static void main(String[] args) {
-        EBook ebook = new EBook("123-ABC", "Java Basics", "James");
-        ebook.displayBookInfo();
-    }
-}
