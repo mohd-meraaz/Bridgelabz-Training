@@ -23,20 +23,3 @@ class Employee {
 }
 
 // Subclass
-class Manager extends Employee {
-
-    Manager(int employeeID, String department, double salary) {
-        super(employeeID, department, salary);
-    }
-
-    void displayEmployeeDetails() {
-        System.out.println("Employee ID: " + employeeID);
-        System.out.println("Department: " + department);
-        System.out.println("Salary: ₹" + getSalary());
-    }
-
-    public static void main(String[] args) {
-        Manager manager = new Manager(501, "IT", 80000);
-        manager.displayEmployeeDetails();
-    }
-}
