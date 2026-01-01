@@ -22,21 +22,4 @@ class BankAccount {
     }
 }
 
-// Subclass
-class SavingsAccount extends BankAccount {
 
-    SavingsAccount(int accountNumber, String accountHolder, double balance) {
-        super(accountNumber, accountHolder, balance);
-    }
-
-    void displayAccountDetails() {
-        System.out.println("Account Number: " + accountNumber);
-        System.out.println("Account Holder: " + accountHolder);
-        System.out.println("Balance: ₹" + getBalance());
-    }
-
-    public static void main(String[] args) {
-        SavingsAccount sa = new SavingsAccount(1001, "Amit", 25000);
-        sa.displayAccountDetails();
-    }
-}
