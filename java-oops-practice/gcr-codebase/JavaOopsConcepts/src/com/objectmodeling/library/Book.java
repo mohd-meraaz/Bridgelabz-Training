@@ -1,4 +1,4 @@
-package com.objectmodeling.assistedproblems;
+package com.objectmodeling.library;
 
 public class Book {
 	private String bookName;
