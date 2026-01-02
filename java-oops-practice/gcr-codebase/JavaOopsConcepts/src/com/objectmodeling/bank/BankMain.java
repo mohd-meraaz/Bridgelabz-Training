@@ -1,4 +1,4 @@
-package com.objectmodeling.assistedproblems;
+package com.objectmodeling.bank;
 
 public class BankMain {
 	public static void main(String[] args) {
