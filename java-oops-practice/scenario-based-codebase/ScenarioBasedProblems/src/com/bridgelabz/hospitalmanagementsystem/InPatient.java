@@ -23,7 +23,8 @@ public class InPatient extends Patient {
     @Override
     public void displayInfo() {
         System.out.println(
-            getSummary() + ", Type: InPatient, Days Admitted: " + daysAdmitted
+            getSummary() + "\nType: InPatient \nDays Admitted: " + daysAdmitted
         );
+        System.out.println();
     }
 }

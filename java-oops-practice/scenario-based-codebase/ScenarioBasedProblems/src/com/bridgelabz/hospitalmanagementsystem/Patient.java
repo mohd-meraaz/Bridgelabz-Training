@@ -37,8 +37,9 @@ public abstract class Patient {
 
     public String getSummary() {
         return "Patient: " + name +
-               ", Age: " + age +
-               ", Emergency: " + emergency;
+               "\nAge: " + age +
+               "\nEmergency: " + emergency;
+        
     }
 
     // No public getter for medical history (security)

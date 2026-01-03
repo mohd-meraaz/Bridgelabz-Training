@@ -19,7 +19,7 @@ public class HospitalApp {
 
     public void displayAllPatients() {
         for (Patient p : patients) {
-            p.displayInfo(); // polymorphism
+            p.displayInfo(); 
         }
     }
 
@@ -28,12 +28,12 @@ public class HospitalApp {
         HospitalApp hospital = new HospitalApp();
 
         // Doctors
-        Doctor d1 = new Doctor("D101", "Dr. Smith", "Cardiology");
+        Doctor d1 = new Doctor("D101", "Dr. Rohit", "Cardiology");
         hospital.addDoctor(d1);
 
         // Patients
-        Patient p1 = new InPatient("P001", "Alice", 30, 5, true);
-        Patient p2 = new OutPatient("P002", "Bob", 22);
+        Patient p1 = new InPatient("P001", "Ram", 30, 5, true);
+        Patient p2 = new OutPatient("P002", "Karan", 22);
 
         hospital.registerPatient(p1);
         hospital.registerPatient(p2);

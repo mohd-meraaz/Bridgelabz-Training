@@ -9,7 +9,9 @@ public class OutPatient extends Patient {
     @Override
     public void displayInfo() {
         System.out.println(
-            getSummary() + ", Type: OutPatient"
+            getSummary() + "\nType: OutPatient"
+            
         );
+        System.out.println();
     }
 }
