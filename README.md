@@ -158,6 +158,17 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - Studied **`Sequence Diagrams`** to understand object interactions and flow.
 - Practiced applying **`UML diagrams`** to model real-world software systems.
 
+---
+## 🗓 Day 5 – Inheritance & Polymorphism in Java  
+**📅 31 December 2025**
+
+- Learned the concept of **Inheritance** and its importance in code reusability.  
+- Studied **Single Level**, **Multilevel**, and **Hierarchical Inheritance** in Java.  
+- Understood the **key features of inheritance** and how behavior is shared.  
+- Explored **Method Overriding** and **Constructor Inheritance**.  
+- Learned how **Polymorphism works with Inheritance**.  
+- Studied **Access Modifiers** and their role in inheritance.
+
 
 
 
