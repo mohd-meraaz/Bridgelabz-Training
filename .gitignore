@@ -22,4 +22,4 @@ Thumbs.db
 #classfiles
 *.class
 
-.DS_Store
+.DS_Store.DS_Store
