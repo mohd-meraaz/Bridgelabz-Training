@@ -169,6 +169,19 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - Learned how **Polymorphism works with Inheritance**.  
 - Studied **Access Modifiers** and their role in inheritance.
 
+---
+## 🗓 Day 6 – Encapsulation, Interfaces & Abstract Classes  
+**📅 01 January 2026**
+
+- Learned the concept of **Encapsulation** and data hiding in Java.  
+- Understood **Polymorphism** and dynamic method behavior.  
+- Explored **Interfaces** to achieve abstraction and multiple inheritance.  
+- Studied **Abstract Classes** and their role in defining base behavior.
+
+---
+
+
+
 
 
 
