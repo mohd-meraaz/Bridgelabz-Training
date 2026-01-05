@@ -147,6 +147,17 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 
 
 
+---
+## 🗓 Day 4 – Classes, Objects & UML Diagrams
+
+**📅 30 December 2025**
+
+- Learned the difference between Classes and Objects in Java.
+- Understood **`Class Diagrams`** to represent structure and relationships.
+- Explored **`Object Diagrams`** to view object states at runtime.
+- Studied **`Sequence Diagrams`** to understand object interactions and flow.
+- Practiced applying **`UML diagrams`** to model real-world software systems.
+
 
 
 
