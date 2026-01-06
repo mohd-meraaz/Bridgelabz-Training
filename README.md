@@ -116,6 +116,11 @@ BridgeLabz-Training
 - 3. Election Booth Manager ️
 - 4. Metro Smart Card Fare Deduction 🚇
 - 5. Raj’s Result Generator ‍
+ 
+**📅 29 December 2025**
+- 6. Parking Lot Gate System 🚗
+- 7. The Number Guessing Game 🎲
+
 
 ---
 # 📘 Week 2: Object-Oriented Programming Concepts
