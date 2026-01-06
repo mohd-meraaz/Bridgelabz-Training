@@ -9,7 +9,8 @@
 - Installed and configured Git on the local system.
 - Created and connected a GitHub repository.
 - Organized the project folder structure for Core Java practice.
-'''
+
+``` bash
 BridgeLabz-Training
 ├── core-java-practice
 │ ├── gcr-codebase
@@ -23,7 +24,7 @@ BridgeLabz-Training
 │ ├── leet-code-codebase
 │ └── scenario-based-codebase
 └── README.md
-'''
+```
 
 - Practiced essential Git commands: `init`, `clone`, `add`, `commit`, and `push`.
 - Successfully pushed the initial setup to GitHub.
@@ -212,6 +213,26 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - Studied **Abstract Classes** and their role in defining base behavior.
 
 ---
+
+## 🗓 Scenario Based Question
+
+**📅 02 January 2026**
+- 1. Hospital Patient Management System
+- 2. Vehicle Rental Application
+- 3. University Course Enrollment System
+- 4. E-Wallet Application
+- 5. Smart Home Automation System
+
+**📅 03 January 2026**
+- 6. "CabbyGo – A Ride-Hailing App in the Making"
+- 7. "MyBank – Managing Customer Accounts"
+
+**📅 05 January 2026**
+- 8. "CampusConnect – College Information System"
+- 9. "SwiftCart – The Grocery Shopping App"
+
+
+
 
 
 
