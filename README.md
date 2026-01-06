@@ -120,6 +120,23 @@ BridgeLabz-Training
 **📅 29 December 2025**
 - 6. Parking Lot Gate System 🚗
 - 7. The Number Guessing Game 🎲
+- 8. Shopkeeper’s Discount Dashboard 🛍️
+- 9. School Bus Attendance System 🚍
+- 10. Phone Recharge Simulator 📱
+
+**📅 30 December 2025**
+- 11. Temperature Logger 🌡️
+- 12. Train Reservation Queue 🚆
+- 13. Sandeep’s Fitness Challenge Tracker 🏋️
+- 14. Movie Ticket Booking App 🎬
+- 15. Rohan’s Library Reminder App 📚
+
+**📅 31 December 2025**
+- 16. Digital Watch Simulation ⏱️
+- 17. Online Quiz Application 🧠
+- 18. Currency Exchange Kiosk 💱
+- 19. Bus Route Distance Tracker 🚌
+- 20. Festival Lucky Draw 🎉
 
 
 ---
