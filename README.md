@@ -77,3 +77,8 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - 3. University Course Enrollment System
 - 4. E-Wallet Application
 - 5. Smart Home Automation System
+
+**📅 03 January 2026**
+- 6. "CabbyGo – A Ride-Hailing App in the Making"
+- 7. "MyBank – Managing Customer Accounts"
+
