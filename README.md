@@ -119,3 +119,6 @@ BridgeLabz-Training
 **📅 29 December 2025**
 - 6. Parking Lot Gate System 🚗
 - 7. The Number Guessing Game 🎲
+- 8. Shopkeeper’s Discount Dashboard 🛍️
+- 9. School Bus Attendance System 🚍
+- 10. Phone Recharge Simulator 📱
