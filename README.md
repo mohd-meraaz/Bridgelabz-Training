@@ -1,7 +1,8 @@
 # Bridgelabz-Training
 
 
-## 🗓 Week 3 
+## 🗓 Week 3 - Data Structures and Algorithms
+
 ## Day 1: Introduction to Data Structures  
 **📅 02 January 2026**
 
@@ -10,3 +11,12 @@
 - Studied different **types of Data Structures**.  
 - Understood **Singly Linked List**, **Doubly Linked List**, and **Circular Linked List** concepts.
 
+---
+
+## Day 2: Stack, Queue, HashMap and Hashing Function
+**📅 03 January 2026**
+
+- Introduced to Stack and Queue, including their working principles and real-world use cases. 
+- Learned Stack operations (push, pop, peek) and Queue operations (enqueue, dequeue, front).
+- Explored HashMap concepts, including key-value pairs and efficient data retrieval.
+- Understood the Hashing Function, collision handling, and its role in optimizing search operations.
