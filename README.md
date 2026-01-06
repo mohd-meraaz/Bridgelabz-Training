@@ -130,3 +130,9 @@ BridgeLabz-Training
 - 14. Movie Ticket Booking App 🎬
 - 15. Rohan’s Library Reminder App 📚
 
+**📅 31 December 2025**
+- 16. Digital Watch Simulation ⏱️
+- 17. Online Quiz Application 🧠
+- 18. Currency Exchange Kiosk 💱
+- 19. Bus Route Distance Tracker 🚌
+- 20. Festival Lucky Draw 🎉
