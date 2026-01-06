@@ -8,7 +8,7 @@
 - Installed and configured Git on the local system.
 - Created and connected a GitHub repository.
 - Organized the project folder structure for Core Java practice.
-
+```
 BridgeLabz-Training
 ├── core-java-practice
 │ ├── gcr-codebase
@@ -22,7 +22,7 @@ BridgeLabz-Training
 │ ├── leet-code-codebase
 │ └── scenario-based-codebase
 └── README.md
-
+```
 
 - Practiced essential Git commands: `init`, `clone`, `add`, `commit`, and `push`.
 - Successfully pushed the initial setup to GitHub.
@@ -104,3 +104,10 @@ BridgeLabz-Training
 - Finalized and pushed all work to the repository.
 
 ---
+
+## Scenario Based Questions
+
+**📅 24 December 2025**
+- Problem 1: The Coffee Counter Chronicles
+- Problem 2: Maya’s BMI Fitness Tracker
+
