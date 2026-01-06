@@ -69,4 +69,11 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 
 ---
 
+## 🗓 Scenario Based Question
 
+**📅 02 January 2026**
+- 1. Hospital Patient Management System
+- 2. Vehicle Rental Application
+- 3. University Course Enrollment System
+- 4. E-Wallet Application
+- 5. Smart Home Automation System
