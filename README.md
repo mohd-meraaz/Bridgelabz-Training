@@ -82,3 +82,6 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - 6. "CabbyGo – A Ride-Hailing App in the Making"
 - 7. "MyBank – Managing Customer Accounts"
 
+**📅 05 January 2026**
+- 8. "CampusConnect – College Information System"
+- 9. "SwiftCart – The Grocery Shopping App"
