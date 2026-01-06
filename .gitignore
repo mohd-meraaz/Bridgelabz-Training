@@ -25,3 +25,7 @@ target/
 Thumbs.db
 
 *.class
+
+
+#ignored other folders
+dsa-practice/
