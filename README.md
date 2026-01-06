@@ -109,9 +109,13 @@ BridgeLabz-Training
 ## Scenario Based Questions
 
 **📅 24 December 2025**
-- Problem 1: The Coffee Counter Chronicles
-- Problem 2: Maya’s BMI Fitness Tracker
+- 1: The Coffee Counter Chronicles
+- 2: Maya’s BMI Fitness Tracker
 
+**📅 26 December 2025**
+- 3. Election Booth Manager ️
+- 4. Metro Smart Card Fare Deduction 🚇
+- 5. Raj’s Result Generator ‍
 
 ---
 # 📘 Week 2: Object-Oriented Programming Concepts
