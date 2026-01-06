@@ -122,3 +122,11 @@ BridgeLabz-Training
 - 8. Shopkeeper’s Discount Dashboard 🛍️
 - 9. School Bus Attendance System 🚍
 - 10. Phone Recharge Simulator 📱
+
+**📅 30 December 2025**
+- 11. Temperature Logger 🌡️
+- 12. Train Reservation Queue 🚆
+- 13. Sandeep’s Fitness Challenge Tracker 🏋️
+- 14. Movie Ticket Booking App 🎬
+- 15. Rohan’s Library Reminder App 📚
+
