@@ -1,0 +1,691 @@
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
+Java is a high level object oriented programming language
+It is widely used for building enterprise applications web services and mobile applications
+Java provides platform independence through the Java Virtual Machine
+InputStreamReader converts byte streams into character streams using a specified charset
+BufferedReader improves performance by reducing the number of I O operations
+StringBuilder is mutable and not synchronized making it faster in single threaded environments
+StringBuffer is synchronized and thread safe but slower than StringBuilder
+FileReader reads character files using the default platform encoding
+InputStreamReader allows explicit control over character encoding and is preferred for real world applications
+This file is used to test file reading performance and word counting logic
+It contains multiple lines and words separated by whitespace characters
+The purpose of this text is to simulate a large input file
+Copy paste this block multiple times to increase the file size
+Use this file to compare FileReader and InputStreamReader performance
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum
