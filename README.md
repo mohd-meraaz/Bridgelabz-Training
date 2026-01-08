@@ -29,3 +29,11 @@
 - This module covers Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort implemented in Java.
 - Additional sorting techniques like Selection, Heap, Counting, Radix, and Bucket Sort are explored for comparison.
 - These implementations help understand algorithm efficiency and real-world use cases.
+
+## Day 4: Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+**📅 06 January 2026**
+- This module focuses on searching algorithms and core Java I/O utilities.
+- Covers Linear Search and Binary Search for efficient data retrieval.
+- Introduces StringBuilder and StringBuffer, highlighting their usage and differences.
+- Explores Java input mechanisms using BufferedReader, FileReader, and InputStreamReader.
+- These concepts help in understanding performance, memory efficiency, and real-world Java application development.
