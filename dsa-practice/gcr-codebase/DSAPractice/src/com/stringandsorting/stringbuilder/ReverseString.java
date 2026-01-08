@@ -1,4 +1,4 @@
-package com.string.stringbuilder;
+package com.stringandsorting.stringbuilder;
 
 import java.util.*;
 
