@@ -1,4 +1,5 @@
-package com.timecomplexityi;
+package com.timecomplexity;
+
 public class FibonacciCompare {
 
     static int fibRec(int n) {
