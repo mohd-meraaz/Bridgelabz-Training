@@ -30,10 +30,17 @@
 - Additional sorting techniques like Selection, Heap, Counting, Radix, and Bucket Sort are explored for comparison.
 - These implementations help understand algorithm efficiency and real-world use cases.
 
-## Day 4: Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+## Day 4 && Day 5: Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
 **📅 06 January 2026**
 - This module focuses on searching algorithms and core Java I/O utilities.
 - Covers Linear Search and Binary Search for efficient data retrieval.
 - Introduces StringBuilder and StringBuffer, highlighting their usage and differences.
 - Explores Java input mechanisms using BufferedReader, FileReader, and InputStreamReader.
 - These concepts help in understanding performance, memory efficiency, and real-world Java application development.
+
+## Day 6: Algorithm Runtime Analysis & Big-O
+**📅 07 January 2026**
+- Introduces Runtime Analysis and the importance of Big-O Notation.
+- Explains Time Complexity and Space Complexity analysis.
+- Covers Best, Worst, and Average Case scenarios with examples.
+- Provides practical guidelines for optimizing Java code.
