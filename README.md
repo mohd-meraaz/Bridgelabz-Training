@@ -1,5 +1,10 @@
 # Bridgelabz-Training
-# 📘 This repository contains my learning progress during BridgeLabz training, focusing on **Git, GitHub, and Core Java basics**. Each day includes hands-on practice, problem-solving, and regular commits to GitHub.
+# 📘 This repository contains my learning progress during BridgeLabz training
+---
+---
+# 📘 Week 1: Git and Java Basics
+
+This week focuses on understanding and focusing on Git, GitHub, and Core Java basics. Each day includes hands-on practice, problem-solving, and regular commits to GitHub.
 
 ---
 
@@ -232,7 +237,18 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - 9. "SwiftCart – The Grocery Shopping App"
 
 
+---
+## 🗓 Week 3 - Data Structures and Algorithms
 
+## Day 1: Introduction to Data Structures  
+**📅 02 January 2026**
+
+- Introduced to **Data Structures** and their role in efficient data handling.  
+- Learned the **key features of Data Structures in Java**.  
+- Studied different **types of Data Structures**.  
+- Understood **Singly Linked List**, **Doubly Linked List**, and **Circular Linked List** concepts.
+
+---
 
 
 
