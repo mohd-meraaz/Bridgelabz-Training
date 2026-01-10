@@ -288,8 +288,15 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - Additional sorting techniques like Selection, Heap, Counting, Radix, and Bucket Sort are explored for comparison.
 - These implementations help understand algorithm efficiency and real-world use cases.
 
+---
 
+## Day 4: Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+**📅 06 January 2026**
 
+- Linear Search scans elements one by one; Binary Search works on sorted data and is faster.
+- StringBuilder is fast and not thread-safe; StringBuffer is thread-safe.
+- BufferedReader reads text efficiently using buffering.
+- FileReader reads from files; InputStreamReader converts byte streams to character streams.
 
 
 
