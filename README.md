@@ -242,6 +242,11 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - 12. "PetPal – Virtual Pet Care App"
 - 13. "EventEase – Event Management Platform"
 
+**📅 07 January 2026**
+- 14. "LoanBuddy – Loan Approval Automation"
+- 15. "BookBazaar – Digital Bookstore System"
+- 16. "ParkEase – Smart Parking Management System"
+
 
 ---
 ## 🗓 Week 3 - Data Structures and Algorithms
