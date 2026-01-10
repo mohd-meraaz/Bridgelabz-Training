@@ -290,7 +290,7 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 
 ---
 
-## Day 4: Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+## Day 4+5: Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
 **📅 06 January 2026**
 
 - Linear Search scans elements one by one; Binary Search works on sorted data and is faster.
@@ -298,8 +298,16 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - BufferedReader reads text efficiently using buffering.
 - FileReader reads from files; InputStreamReader converts byte streams to character streams.
 
+---
 
-
+## Day 6: Algorithm's Runtime Analysis & Big-O Notation
+**📅 07 January 2026**
+- Runtime Analysis evaluates how an algorithm’s performance changes with input size.
+- Big-O Notation describes the upper bound of an algorithm’s growth rate.
+- Time Complexity measures how execution time increases with input size.
+- Space Complexity measures the memory used by an algorithm.
+- Best, Worst, Average Cases show performance under optimal, maximum, and typical conditions.
+- Optimizing Java Code focuses on efficient algorithms, data structures, and reduced resource usage.
 
 
 
