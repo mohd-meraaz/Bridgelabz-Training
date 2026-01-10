@@ -3,6 +3,9 @@
 
 ## 🗓 Week 3 - Data Structures and Algorithms
 
+This week focuses on understanding and focusing on Data Structures and algorithm. Each day includes hands-on practice, problem-solving, and regular commits to GitHub.
+--- 
+
 ## Day 1: Introduction to Data Structures  
 **📅 02 January 2026**
 
@@ -44,3 +47,11 @@
 - Explains Time Complexity and Space Complexity analysis.
 - Covers Best, Worst, and Average Case scenarios with examples.
 - Provides practical guidelines for optimizing Java code.
+
+## 🗓 Scenario Based Question
+
+**📅 10 January 2026**
+- 1. BookShelf – Library Organizer (HashMap + Linked List)
+- 2. BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+- 3. AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+
