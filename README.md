@@ -101,3 +101,7 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - 17. "MediStore – Pharmacy Inventory & Sales System"
 - 18. "TourMate – Travel Itinerary Planner"
 
+**📅 09 January 2026**
+- 19. "Artify – Digital Art Marketplace"
+- 20. "FoodLoop – Restaurant Ordering System"
+- 21. "SkillForge – Online Learning Portal"
