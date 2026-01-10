@@ -269,7 +269,13 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 
 ---
 
+## Day 2: Stack, Queue, HashMap and Hashing Function
+**📅 03 January 2026**
 
+- Introduced to Stack and Queue, including their working principles and real-world use cases. 
+- Learned Stack operations (push, pop, peek) and Queue operations (enqueue, dequeue, front).
+- Explored HashMap concepts, including key-value pairs and efficient data retrieval.
+- Understood the Hashing Function, collision handling, and its role in optimizing search operations.
 
 
 
