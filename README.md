@@ -85,3 +85,7 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 **📅 05 January 2026**
 - 8. "CampusConnect – College Information System"
 - 9. "SwiftCart – The Grocery Shopping App"
+
+**📅 06 January 2026**
+- 10. "EduMentor – Personalized Learning Platform"
+- 11. "FitTrack – Your Personal Fitness Tracker"
