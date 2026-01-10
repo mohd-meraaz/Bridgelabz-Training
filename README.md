@@ -277,6 +277,16 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - Explored HashMap concepts, including key-value pairs and efficient data retrieval.
 - Understood the Hashing Function, collision handling, and its role in optimizing search operations.
 
+--- 
+
+## Day 3: Sorting Algorithms
+**📅 05 January 2026**
+
+- Sorting algorithms are used to arrange data in a specific order for efficient processing.
+- This module covers Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort implemented in Java.
+- This module covers Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort implemented in Java.
+- Additional sorting techniques like Selection, Heap, Counting, Radix, and Bucket Sort are explored for comparison.
+- These implementations help understand algorithm efficiency and real-world use cases.
 
 
 
