@@ -309,7 +309,12 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - Best, Worst, Average Cases show performance under optimal, maximum, and typical conditions.
 - Optimizing Java Code focuses on efficient algorithms, data structures, and reduced resource usage.
 
+## 🗓 Scenario Based Question
 
+**📅 10 January 2026**
+- 1. BookShelf – Library Organizer (HashMap + Linked List)
+- 2. BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+- 3. AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
 
 
 
