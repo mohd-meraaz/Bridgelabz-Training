@@ -247,7 +247,9 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - 15. "BookBazaar – Digital Bookstore System"
 - 16. "ParkEase – Smart Parking Management System"
 
-
+**📅 08 January 2026**
+- 17. "MediStore – Pharmacy Inventory & Sales System"
+- 18. "TourMate – Travel Itinerary Planner"
 ---
 ## 🗓 Week 3 - Data Structures and Algorithms
 
