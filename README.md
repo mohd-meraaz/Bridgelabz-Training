@@ -1,7 +1,7 @@
 # Bridgelabz-Training
 # 📘 This repository contains my learning progress during BridgeLabz training
 ---
----
+
 # 📘 Week 1: Git and Java Basics
 
 This week focuses on understanding and focusing on Git, GitHub, and Core Java basics. Each day includes hands-on practice, problem-solving, and regular commits to GitHub.
@@ -250,6 +250,12 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 **📅 08 January 2026**
 - 17. "MediStore – Pharmacy Inventory & Sales System"
 - 18. "TourMate – Travel Itinerary Planner"
+
+**📅 09 January 2026**
+- 19. "Artify – Digital Art Marketplace"
+- 20. "FoodLoop – Restaurant Ordering System"
+- 21. "SkillForge – Online Learning Portal"
+
 ---
 ## 🗓 Week 3 - Data Structures and Algorithms
 
