@@ -55,3 +55,14 @@ This week focuses on understanding and focusing on Data Structures and algorithm
 - 2. BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
 - 3. AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
 
+**📅 12 January 2026**
+- 4. CallCenter – Customer Queue Manager 
+- 5. TrainCompanion – Compartment Navigation System
+- 6. TextEditor – Undo/Redo Functionality
+- 7. TrafficManager – Roundabout Vehicle Flow
+- 8. BookShelf – Library Organizer
+
+**📅 13 January 2026**
+- 9. SmartCheckout – Supermarket Billing Queue 
+- 10. ParcelTracker – Delivery Chain Management 
+- 11. ExamProctor – Online Exam Review System
