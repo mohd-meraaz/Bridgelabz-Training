@@ -12,11 +12,14 @@ public class FindFrequency {
 		list.add("banana");
 		list.add("mango");
 		list.add("berry");
+		list.add("berry");
+		list.add("berry");
+		list.add("berry");
 		
-		freqCompute(list);
+		findFrequency(list);
 	}
 	
-	public static void freqCompute(List<String> list) {
+	public static void findFrequency(List<String> list) {
 		Map<String,Integer> freq = new HashMap<>();
 		
 		for(String s : list) {
@@ -25,7 +28,7 @@ public class FindFrequency {
 		
 		//display
 		for(var c:freq.entrySet()) {
-			System.out.println(c.getKey() + "="+c.getValue());
+			System.out.println(c.getKey() + " : "+c.getValue());
 		}
 	}
 }
