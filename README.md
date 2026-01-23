@@ -82,3 +82,21 @@ This week focuses on understanding and focusing on Data Structures and algorithm
 - 8. CropMonitor – Sensor Data Ordering (Quick Sort)
 
 
+**📅 17 January 2026**
+- 9. ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+- 10. FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+- 11. IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+- 12. SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+
+
+
+
+
+
+
+
+
+
+
+
+
