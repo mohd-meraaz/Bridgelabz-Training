@@ -66,3 +66,15 @@ This week focuses on understanding and focusing on Data Structures and algorithm
 - 9. SmartCheckout – Supermarket Billing Queue 
 - 10. ParcelTracker – Delivery Chain Management 
 - 11. ExamProctor – Online Exam Review System
+
+
+## 🗓 Scenario Based Question(Sorting Algorithms)
+**📅 15 January 2026**
+- 1. HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+- 2. SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+- 3. ZipZipMart – Daily Sales Summary Report (Merge Sort)
+- 4. EventManager – Ticket Price Optimizer (Quick Sort)
+- 5. ExamCell – Student Rank Generator (Merge Sort)
+
+
+
