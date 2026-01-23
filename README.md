@@ -93,6 +93,31 @@ This week focuses on understanding and focusing on Data Structures and algorithm
 - 14. FlashDealz – Product Sorting by Discount (Quick Sort)
 - 15. FitnessTracker – Daily Step Count Ranking (Bubble Sort)
 
+**📅 20 January 2026**
+- 16. MovieTime – Theater Show Listings (Insertion Sort)
+- 17. FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+- 18. GamerZone – High Score Ranking System (Quick Sort)
+
+**📅 21 January 2026**
+- 19. TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
+- 20. MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+
+
+## 🗓 Scenario Based Question(Trees)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
