@@ -76,5 +76,9 @@ This week focuses on understanding and focusing on Data Structures and algorithm
 - 4. EventManager – Ticket Price Optimizer (Quick Sort)
 - 5. ExamCell – Student Rank Generator (Merge Sort)
 
+**📅 16 January 2026**
+- 6. RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+- 7. CinemaHouse – Movie Time Sorting (Bubble Sort)
+- 8. CropMonitor – Sensor Data Ordering (Quick Sort)
 
 
