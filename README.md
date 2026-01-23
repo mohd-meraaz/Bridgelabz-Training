@@ -88,8 +88,10 @@ This week focuses on understanding and focusing on Data Structures and algorithm
 - 11. IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
 - 12. SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
 
-
-
+**📅 19 January 2026**
+- 13. EduResults – Rank Sheet Generator (Merge Sort)
+- 14. FlashDealz – Product Sorting by Discount (Quick Sort)
+- 15. FitnessTracker – Daily Step Count Ranking (Bubble Sort)
 
 
 
