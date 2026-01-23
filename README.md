@@ -67,7 +67,7 @@ This week focuses on understanding and focusing on Data Structures and algorithm
 - 10. ParcelTracker – Delivery Chain Management 
 - 11. ExamProctor – Online Exam Review System
 
-
+---
 ## 🗓 Scenario Based Question(Sorting Algorithms)
 **📅 15 January 2026**
 - 1. HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
