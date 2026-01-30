@@ -4,13 +4,15 @@ import java.util.*;
 
 public class ListManager {
 	
-	//add
+	//addElement(List<Integer> list, int element): Adds an element to a list.
+
 	public int addElement(List<Integer> list, int element){
 		list.add(element);
 		return element;
 	}
 	
-	//remove
+	//removeElement(List<Integer> list, int element): Removes an element from a list.
+
 	public boolean removeElement(List<Integer> list, int element) {
 		if(list.isEmpty()) {
 			return false;
@@ -25,7 +27,8 @@ public class ListManager {
 
 	}
 	
-	//get elements
+	//getSize(List<Integer> list): Returns the size of the list.
+
 	public int getSize(List<Integer> list) {
 		return list.size();
 	}
