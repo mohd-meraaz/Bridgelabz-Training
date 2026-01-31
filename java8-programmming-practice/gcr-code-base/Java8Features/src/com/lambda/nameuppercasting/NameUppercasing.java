@@ -2,8 +2,6 @@ package com.lambda.nameuppercasting;
 
 import java.util.ArrayList;
 
-import com.lambda.hospitalidprinting.Patient;
-
 public class NameUppercasing {
 	public static void main(String[] args) {
 		ArrayList<Employee> emp = new ArrayList<>();
