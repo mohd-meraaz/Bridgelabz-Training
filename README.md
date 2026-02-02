@@ -21,3 +21,13 @@ This week focuses on understanding on features of java8 such as lambda expressio
 - Functional Interfaces
 - Default and Static Methods in Interfaces
 - Marker Interfaces
+
+## 🗓 Day 3 – Stream API
+**📅 29 January 2026**
+
+- Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
