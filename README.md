@@ -15,7 +15,7 @@ This week focuses on understanding on features of java8 such as lambda expressio
 - What is Method References in java8
 
 ## 🗓 Day 2 – Functional Interfaces
-**📅 28 January 2026**
+**📅 27 January 2026**
 
 - Defining and Implementing Interfaces
 - Functional Interfaces
@@ -23,7 +23,7 @@ This week focuses on understanding on features of java8 such as lambda expressio
 - Marker Interfaces
 
 ## 🗓 Day 3 – Stream API
-**📅 29 January 2026**
+**📅 28 January 2026**
 
 - Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
 - Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
@@ -31,3 +31,10 @@ This week focuses on understanding on features of java8 such as lambda expressio
 - Ordered vs unordered streams
 - Parallel streams
 - forEach() — Iterable vs Stream
+
+## 🗓 Day 4 – Collectors
+**📅 28 January 2026**
+
+- Collectors & Its Roles and Capabilities
+- Converting Streams to Collections
+- and many more conversions
