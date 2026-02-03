@@ -1,4 +1,4 @@
-package com.json.readjson;
+package com.bridge.csv.com.bridge.csv.json.readjson;
 
 import java.io.File;
 import com.fasterxml.jackson.databind.JsonNode;
