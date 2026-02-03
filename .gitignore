@@ -25,3 +25,10 @@ Thumbs.db
 .DS_Store.DS_Store
 .DS_Store
 java-oops-practice/
+
+java-collections-practice/
+java-iostreams-practice/gcr-code-base/com.bridge.csv/.mvn/
+java-iostreams-practice/gcr-code-base/com.bridge.csv/pom.xml
+java-iostreams-practice/gcr-code-base/com.bridge.csv/src/main/java/com/bridge/csv/com/bridge/csv/App.java
+java-iostreams-practice/gcr-code-base/com.bridge.csv/src/test/
+java8-programmming-practice/
