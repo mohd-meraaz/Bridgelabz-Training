@@ -1,4 +1,4 @@
-package com.json.iplcensoranalyzer;
+package com.bridge.csv.com.bridge.csv.json.iplcensoranalyzer;
 
 import java.io.*;
 import java.io.File;
