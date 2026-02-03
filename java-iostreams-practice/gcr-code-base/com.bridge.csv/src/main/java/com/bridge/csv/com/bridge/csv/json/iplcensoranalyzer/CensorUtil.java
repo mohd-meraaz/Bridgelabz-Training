@@ -1,4 +1,4 @@
-package com.json.iplcensoranalyzer;
+package com.bridge.csv.com.bridge.csv.json.iplcensoranalyzer;
 
 public class CensorUtil {
 	// Mask team name: keep first word
