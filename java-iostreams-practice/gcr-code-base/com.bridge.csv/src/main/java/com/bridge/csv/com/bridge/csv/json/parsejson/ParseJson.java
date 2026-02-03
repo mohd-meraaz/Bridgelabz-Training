@@ -1,4 +1,4 @@
-package com.json.parsejson;
+package com.bridge.csv.com.bridge.csv.json.parsejson;
 
 import java.io.File;
 
