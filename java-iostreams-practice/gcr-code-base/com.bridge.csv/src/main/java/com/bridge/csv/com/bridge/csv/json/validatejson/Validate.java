@@ -1,4 +1,4 @@
-package com.json.validatejson;
+package com.bridge.csv.com.bridge.csv.json.validatejson;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -6,6 +6,10 @@ import java.io.IOException;
 
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+
+
+
+
 
 public class Validate {
 	public static void main(String[] args) throws IOException {
