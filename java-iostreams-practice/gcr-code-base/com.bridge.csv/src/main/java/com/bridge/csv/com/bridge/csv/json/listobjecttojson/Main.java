@@ -1,4 +1,4 @@
-package com.json.listobjecttojson;
+package com.bridge.csv.com.bridge.csv.json.listobjecttojson;
 
 
 import java.util.List;
