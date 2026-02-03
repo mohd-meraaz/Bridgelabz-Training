@@ -1,4 +1,4 @@
-package com.json.listobjecttojson;
+package com.bridge.csv.com.bridge.csv.json.listobjecttojson;
 
 public class Car {
 	private String name;
