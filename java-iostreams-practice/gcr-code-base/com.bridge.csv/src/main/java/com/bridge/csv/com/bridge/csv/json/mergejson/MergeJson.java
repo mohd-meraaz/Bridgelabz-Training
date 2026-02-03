@@ -1,4 +1,4 @@
-package com.json.mergejson;
+package com.bridge.csv.com.bridge.csv.json.mergejson;
 
 import java.io.File;
 
