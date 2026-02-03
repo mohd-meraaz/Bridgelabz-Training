@@ -1,4 +1,4 @@
-package com.json.convertobjecttojson;
+package com.bridge.csv.com.bridge.csv.json.convertobjecttojson;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
