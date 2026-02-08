@@ -1,27 +1,99 @@
-/.metadata/
-# Eclipse specific files
-.metadata/
-.settings/
-.classpath
-.project
-
-# Java build output
-bin/
+# =========================
+# Maven
+# =========================
 target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
 
-# JPMS
-**/module-info.java
-
-# Logs
+# =========================
+# Java
+# =========================
+*.class
 *.log
+*.ctxt
 
-# OS generated files
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# =========================
+# Eclipse
+# =========================
+.project
+.classpath
+.settings/
+.factorypath
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS Files
+# =========================
 .DS_Store
 Thumbs.db
 
-#classfiles
-*.class
+# =========================
+# Logs
+# =========================
+logs/
+*.log
 
-.DS_Store.DS_Store
+# =========================
+# Test / Coverage
+# =========================
+/coverage/
+*.exec
+
+# =========================
+# Environment files
+# =========================
+.env
+
+#=======================
+# Eclipse specific files
+#======================
+
+/.metadata/
+
+.metadata/
+
+.settings/
+
+.classpath
+
+.project
+
+# Java build output
+
+bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
 .DS_Store
-java-oops-practice/
+
+Thumbs.db
+
+*.class
+java-collections-practice/
+	java-iostreams-practice/
+	java8-programmming-practice/
