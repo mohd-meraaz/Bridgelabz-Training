@@ -148,23 +148,23 @@ SELECT d.Doctor_Name ,
 -- Actor: Administrator
 -- Flow: Soft delete using UPDATE to SET is_active=false in doctors table. Check for future appoINTments using nested SELECT before deactivation.
 
-CREATE TABLE AppoINTments (
-    appoINTment_id INT AUTO_INCREMENT PRIMARY KEY,
+CREATE TABLE Appointments (
+    appointment_id INT AUTO_INCREMENT PRIMARY KEY,
     doctor_id INT,
     patient_name VARCHAR(100),
-    appoINTment_date DATE,
+    appointment_date DATE,
     FOREIGN KEY (doctor_id) REFERENCES Doctor(Doctor_Id)
 );
 
-INSERT INTO AppoINTments (doctor_id, patient_name, appoINTment_date)
+INSERT INTO Appointments (doctor_id, patient_name, appoINTment_date)
 VALUES
 (1, 'Rahul', '2026-02-20'),   -- future appoINTment
 (2, 'Sneha', '2025-01-10');   -- past appoINTment
 
-SELECT * FROM AppoINTments;
+SELECT * FROM Appointments;
 
 -- +----------------+-----------+--------------+------------------+
--- | appoINTment_id | doctor_id | patient_name | appoINTment_date |
+-- | appointment_id | doctor_id | patient_name | appoINTment_date |
 -- +----------------+-----------+--------------+------------------+
 -- |              1 |         1 | Rahul        | 2026-02-20       |
 -- |              2 |         2 | Sneha        | 2025-01-10       |
