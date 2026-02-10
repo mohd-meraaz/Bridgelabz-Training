@@ -1,0 +1,182 @@
+-- 4. Visit Management & Medical Records
+CREATE DATABASE MedicalRecords;
+USE MedicalRecords;
+
+-- =========================
+-- Patient Table
+-- =========================
+CREATE TABLE Patient (
+    Patient_Id INT PRIMARY KEY AUTO_INCREMENT,
+    Patient_Name VARCHAR(100),
+    DOB DATE,
+    Phone_No VARCHAR(15),
+    email VARCHAR(30),
+    Address VARCHAR(100),
+    Blood_Group VARCHAR(3)
+);
+
+INSERT INTO Patient (Patient_Name, DOB, Phone_No, email, Address, Blood_Group) 
+VALUES
+('Titu', '2003-04-13', '9827289348', 'titu@capgemini.in', 'Tanatan Dhaba, Nizamuddin, Bhopal', 'O+'),
+('Arvind', '2003-04-03', '9376338636', 'arvind@capgemini.in', 'Anand Nagar, Bhopal', 'A+'),
+('Aniruddha', '2006-12-11', '9823289348', 'anni@capgemini.in', 'Anand Nagar, Bhopal', 'O+'),
+('Kaif', '2002-09-25', '9827289349', 'kaif@capgemini.in', 'Alam Tower, Jahagirabad, Bhopal', 'B+'),
+('Avinash', '2004-04-23', '6827289348', 'avinash@bridgelabz.in', 'Ratnagiri, Bhopal', 'A-'),
+('Suraj', '2003-08-03', '6376338636', 'suraj@bridgelabz.in', 'Anand Nagar, Bhopal', 'A+');
+
+-- =========================
+-- Appointments Table
+-- =========================
+CREATE TABLE Appointments (
+    appointment_id INT AUTO_INCREMENT PRIMARY KEY,
+    Patient_Id INT,
+    appointment_date DATE,
+    appointmentStatus VARCHAR(100),
+    FOREIGN KEY (Patient_Id) REFERENCES Patient(Patient_Id)
+);
+
+INSERT INTO Appointments (Patient_Id, appointment_date, appointmentStatus)
+VALUES
+(3, '2026-02-20', 'Scheduled'),
+(2, '2026-02-20', 'Scheduled'),
+(4, '2026-02-20', 'Scheduled'),
+(1, '2025-01-10', 'Completed'),
+(4, '2025-01-10', 'Completed'),
+(2, '2025-01-10', 'Completed');
+
+-- =========================
+-- Prescriptions Table
+-- =========================
+CREATE TABLE Prescriptions(
+    Medicine_Id INT AUTO_INCREMENT PRIMARY KEY,
+    Medicine_Name VARCHAR(100),
+    Dosage INT,
+    Duration_Day INT
+);
+
+INSERT INTO Prescriptions (Medicine_Name, Dosage, Duration_Day)
+VALUES
+('Paracetamol', 500, 5),
+('Amoxicillin', 250, 7),
+('Ibuprofen', 400, 3),
+('Azithromycin', 500, 3),
+('Cetirizine', 10, 5),
+('Metformin', 500, 30),
+('Pantoprazole', 40, 10),
+('Dolo 650', 650, 4),
+('Atorvastatin', 10, 30),
+('Amlodipine', 5, 30);
+
+-- =========================
+-- Visits Table
+-- =========================
+CREATE TABLE visits( 
+    Visit_Id INT AUTO_INCREMENT PRIMARY KEY,
+    appointment_id INT,
+    diagnosis VARCHAR(100),
+    prescription_id INT,
+    notes VARCHAR(200),
+    visit_date DATE DEFAULT (CURRENT_DATE),
+    FOREIGN KEY (appointment_id) REFERENCES Appointments(appointment_id),
+    FOREIGN KEY (prescription_id) REFERENCES Prescriptions(Medicine_Id)
+);
+
+-- =========================
+-- UC-4.1: Record Patient Visit
+-- =========================
+START TRANSACTION;
+
+INSERT INTO visits (appointment_id, diagnosis, prescription_id, notes)
+VALUES 
+(1, 'Fever and Body Pain', 1, 'Take medicine after meals');
+
+UPDATE Appointments
+SET appointmentStatus = 'Completed'
+WHERE appointment_id = 1;
+
+COMMIT;
+
+-- =========================
+-- UC-4.2: View Patient Medical History
+-- =========================
+SELECT
+    p.Patient_Name,
+    a.appointment_date,
+    v.visit_date,
+    v.diagnosis,
+    pr.Medicine_Name,
+    pr.Dosage,
+    pr.Duration_Day,
+    v.notes
+FROM visits v
+JOIN Appointments a ON v.appointment_id = a.appointment_id
+JOIN Patient p ON a.Patient_Id = p.Patient_Id
+JOIN Prescriptions pr ON v.prescription_id = pr.Medicine_Id
+WHERE p.Patient_Id = 1
+ORDER BY v.visit_date DESC;
+
+-- =========================
+-- UC-4.3: Add Multiple Prescription Records
+-- =========================
+INSERT INTO Prescriptions (Medicine_Name, Dosage, Duration_Day)
+VALUES
+('Cough Syrup', 10, 5),
+('Vitamin D', 1000, 30),
+('Calcium Tablet', 500, 20);
+
+
+-- =========================
+-- Check all tables
+-- =========================
+SELECT * FROM Patient;
+-- +------------+--------------+------------+------------+-----------------------+-----------------------------------+-------------+
+-- | Patient_Id | Patient_Name | DOB        | Phone_No   | email                 | Address                           | Blood_Group |
+-- +------------+--------------+------------+------------+-----------------------+-----------------------------------+-------------+
+-- |          1 | Titu         | 2003-04-13 | 9827289348 | titu@capgemini.in     | Tanatan Dhaba, Nizamuddin, Bhopal | O+          |
+-- |          2 | Arvind       | 2003-04-03 | 9376338636 | arvind@capgemini.in   | Anand Nagar, Bhopal               | A+          |
+-- |          3 | Aniruddha    | 2006-12-11 | 9823289348 | anni@capgemini.in     | Anand Nagar, Bhopal               | O+          |
+-- |          4 | Kaif         | 2002-09-25 | 9827289349 | kaif@capgemini.in     | Alam Tower, Jahagirabad, Bhopal   | B+          |
+-- |          5 | Avinash      | 2004-04-23 | 6827289348 | avinash@bridgelabz.in | Ratnagiri, Bhopal                 | A-          |
+-- |          6 | Suraj        | 2003-08-03 | 6376338636 | suraj@bridgelabz.in   | Anand Nagar, Bhopal               | A+          |
+-- +------------+--------------+------------+------------+-----------------------+-----------------------------------+-------------+
+-- ======================================================================================================================================================
+SELECT * FROM Appointments;
+-- +----------------+------------+------------------+-------------------+
+-- | appointment_id | Patient_Id | appointment_date | appointmentStatus |
+-- +----------------+------------+------------------+-------------------+
+-- |              1 |          3 | 2026-02-20       | Completed         |
+-- |              2 |          2 | 2026-02-20       | Scheduled         |
+-- |              3 |          4 | 2026-02-20       | Scheduled         |
+-- |              4 |          1 | 2025-01-10       | Completed         |
+-- |              5 |          4 | 2025-01-10       | Completed         |
+-- |              6 |          2 | 2025-01-10       | Completed         |
+-- +----------------+------------+------------------+-------------------+
+-- ======================================================================================================================================================
+SELECT * FROM Prescriptions;
+-- +-------------+----------------+--------+--------------+
+-- | Medicine_Id | Medicine_Name  | Dosage | Duration_Day |
+-- +-------------+----------------+--------+--------------+
+-- |           1 | Paracetamol    |    500 |            5 |
+-- |           2 | Amoxicillin    |    250 |            7 |
+-- |           3 | Ibuprofen      |    400 |            3 |
+-- |           4 | Azithromycin   |    500 |            3 |
+-- |           5 | Cetirizine     |     10 |            5 |
+-- |           6 | Metformin      |    500 |           30 |
+-- |           7 | Pantoprazole   |     40 |           10 |
+-- |           8 | Dolo 650       |    650 |            4 |
+-- |           9 | Atorvastatin   |     10 |           30 |
+-- |          10 | Amlodipine     |      5 |           30 |
+-- |          11 | Cough Syrup    |     10 |            5 |
+-- |          12 | Vitamin D      |   1000 |           30 |
+-- |          13 | Calcium Tablet |    500 |           20 |
+-- +-------------+----------------+--------+--------------+
+
+-- ======================================================================================================================================================
+SELECT * FROM visits;
+
+-- +----------+----------------+---------------------+-----------------+---------------------------+------------+
+-- | Visit_Id | appointment_id | diagnosis           | prescription_id | notes                     | visit_date |
+-- +----------+----------------+---------------------+-----------------+---------------------------+------------+
+-- |        1 |              1 | Fever and Body Pain |               1 | Take medicine after meals | 2026-02-10 |
+-- +----------+----------------+---------------------+-----------------+---------------------------+------------+
+-- ======================================================================================================================================================
