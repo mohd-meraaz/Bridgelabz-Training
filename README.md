@@ -352,3 +352,11 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - Type parameters enable reusable and flexible code without explicit casting.
 - Generic classes and methods help create data structures and utilities that work with multiple types.
 - Bounded types and wildcards provide control over type relationships and improve flexibility in APIs.
+
+
+## Day 2: Collections Framework
+**📅 16 January 2026**
+- The Collections Framework provides a unified architecture to store, retrieve, and manipulate groups of objects.
+- Core interfaces like List, Set, Queue, Deque, and Map define different data storage and access behaviors.
+- Various implementations offer trade-offs in ordering, uniqueness, performance, and thread safety.
+- Understanding the hierarchy and use cases helps in choosing the right collection for efficient and clean code.
