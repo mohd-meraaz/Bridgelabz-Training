@@ -345,4 +345,10 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - 10. ParcelTracker – Delivery Chain Management 
 - 11. ExamProctor – Online Exam Review System
 
-
+## 🗓 Week 4 - Java Collections and Streams
+## Day 1: Java Generics
+**📅 09 January 2026**
+- Generics allow classes and methods to work with different data types while maintaining type safety.
+- Type parameters enable reusable and flexible code without explicit casting.
+- Generic classes and methods help create data structures and utilities that work with multiple types.
+- Bounded types and wildcards provide control over type relationships and improve flexibility in APIs.
