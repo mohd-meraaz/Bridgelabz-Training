@@ -324,7 +324,7 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - Time Complexity measures how execution time increases with input size.
 - Space Complexity measures the memory used by an algorithm.
 - Best, Worst, Average Cases show performance under optimal, maximum, and typical conditions.
-- Optimizing Java Code focuses on efficient algorithms, data structures, and reduced resource usage.
+- Optimising Java Code focuses on efficient algorithms, data structures, and reduced resource usage.
 
 ## 🗓 Scenario Based Question
 
@@ -356,7 +356,17 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 
 ## Day 2: Collections Framework
 **📅 16 January 2026**
+
 - The Collections Framework provides a unified architecture to store, retrieve, and manipulate groups of objects.
 - Core interfaces like List, Set, Queue, Deque, and Map define different data storage and access behaviors.
 - Various implementations offer trade-offs in ordering, uniqueness, performance, and thread safety.
 - Understanding the hierarchy and use cases helps in choosing the right collection for efficient and clean code.
+
+
+## Day 3: Java I/O Streams
+**📅 19 January 2026**
+
+- Java I/O streams are used to read and write data in the form of bytes or characters.
+- Different types of streams include file streams, object streams, byte array streams, and buffered streams.
+- Reader and Writer classes handle character-based input and output efficiently.
+- Following best practices ensures better performance, proper resource handling, and safer file operations.
