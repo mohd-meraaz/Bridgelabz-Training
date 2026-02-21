@@ -38,3 +38,16 @@
 👉 [Java Streams Problems]()
 
 ---
+
+### 📅 Day 4 – Java Exception Handling
+**(Date: 20-Jan-2026)**
+
+- Implemented comprehensive `Java Exception Handling` concepts, including `checked`, `unchecked`, and `custom exceptions`.
+- Used `try-catch`, `try-catch-finally`, and `try-with-resources` for safe execution and resource management.
+- Applied `throw` and `throws` for exception propagation and control flow.
+- Created custom exceptions by `extending Exception` and defining constructors for meaningful `error handling`.
+
+🔗**Code Link:**
+👉 [Java Exception Handling Problems]()
+
+---
