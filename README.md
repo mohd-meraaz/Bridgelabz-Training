@@ -346,27 +346,119 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - 11. ExamProctor – Online Exam Review System
 
 ## 🗓 Week 4 - Java Collections and Streams
-## Day 1: Java Generics
-**📅 09 January 2026**
-- Generics allow classes and methods to work with different data types while maintaining type safety.
-- Type parameters enable reusable and flexible code without explicit casting.
-- Generic classes and methods help create data structures and utilities that work with multiple types.
-- Bounded types and wildcards provide control over type relationships and improve flexibility in APIs.
+# BridgeLabz-Training
 
+### 📅 Day 1 – Generics in Java 
+**(Date: 15-Jan-2026)**
 
-## Day 2: Collections Framework
-**📅 16 January 2026**
+-  Studied `Java Generics` to ensure strong compile-time type safety and eliminate explicit type casting.
+-  Designed `generic classes and methods` using type parameters to improve code reusability and maintainability.
+-  Applied `bounded type parameters` to logically restrict types and enforce domain-specific constraints.
+-  Used `wildcards (? extends, ? super)` to build flexible, readable, and robust APIs for real-world scenarios.
 
-- The Collections Framework provides a unified architecture to store, retrieve, and manipulate groups of objects.
-- Core interfaces like List, Set, Queue, Deque, and Map define different data storage and access behaviors.
-- Various implementations offer trade-offs in ordering, uniqueness, performance, and thread safety.
-- Understanding the hierarchy and use cases helps in choosing the right collection for efficient and clean code.
+🔗**Code Link:**
+👉 [Generics Problems]()
 
+---
 
-## Day 3: Java I/O Streams
-**📅 19 January 2026**
+### 📅 Day 2 – Java Collections Framework (JCF)
+**(Date: 16-Jan-2026)**
 
-- Java I/O streams are used to read and write data in the form of bytes or characters.
-- Different types of streams include file streams, object streams, byte array streams, and buffered streams.
-- Reader and Writer classes handle character-based input and output efficiently.
-- Following best practices ensures better performance, proper resource handling, and safer file operations.
+- Explored the `Java Collections Framework` to understand its purpose, structure, and overall hierarchy.
+- Worked with core interfaces such as `List`, `Set`, `Queue`, `Deque`, and `Map` and their common implementations.
+- Compared different collection implementations based on `performance`, `ordering`, `duplication`, and `thread-safety`.
+- Applied `real-world use cases and best practices` to select the most efficient collection for specific problem scenarios.
+
+🔗**Code Link:**
+👉 [Collections Problems]()
+
+---
+
+### 📅 Day 3 – Java Streams 
+**(Date: 19-Jan-2026)**
+
+- Implemented `Java I/O Streams` to handle file-based and in-memory data operations efficiently.
+- Worked with `File Streams`, `Object Streams`, `ByteArray Streams`, `Buffered Streams`, and `Reader/Writer classes`.
+- Understood the differences between `byte` and `character streams` for proper data handling.
+- Applied key considerations and best practices for performance, buffering, and resource management.
+
+🔗**Code Link:**
+👉 [Java Streams Problems]()
+
+---
+
+### 📅 Day 4 – Java Exception Handling
+**(Date: 20-Jan-2026)**
+
+- Implemented comprehensive `Java Exception Handling` concepts, including `checked`, `unchecked`, and `custom exceptions`.
+- Used `try-catch`, `try-catch-finally`, and `try-with-resources` for safe execution and resource management.
+- Applied `throw` and `throws` for exception propagation and control flow.
+- Created custom exceptions by `extending Exception` and defining constructors for meaningful `error handling`.
+
+🔗**Code Link:**
+👉 [Java Exception Handling Problems]()
+
+---
+---
+
+### 📅 Day 5 – Regular Expressions (regex) and JUnit
+**(Date: 21-Jan-2026)**
+
+- Learned and practised Regex concepts, including `metacharacters`, `quantifiers`, and writing patterns for `email validation`, `password strength`, and `phone number formats`.
+- Worked with the `Java Regex API` using `Pattern` and `Matcher`, and practised methods like `find()`, `matches()`, and `replaceAll()`.
+- Learned the JUnit framework for `unit testing in Java` and understood its role in testing application logic.
+- Practised writing `JUnit test cases` using `annotations`, proper test class structure, and `assertions` to verify results.
+
+🔗**Code Link:**
+👉 [Regex Practice Problems]()
+👉 [JUnit Practice Problems]()
+
+---
+
+### 📅 Day 6 – Annotations and Reflection in Java
+**(Date: 22-Jan-2026)**
+
+- Learned the basics of annotations in Java and understood their purpose in adding `metadata` to code.
+- Practised using common `built-in annotations` and created `custom and advanced annotations` for real-world scenarios.
+- Explored real-world use cases of annotations and how they are handled using annotation processing tools.
+- Gained understanding of `Java Reflection`, practised `accessing classes`, `methods`, and `fields` at runtime, and used reflection with annotations.
+
+🔗**Code Link:**
+👉 [Annotations Practice Problems]()
+👉 [Reflection Practice Problems]()
+
+---
+### 📅 Day 7 – Collections Scenario-based Problems Practice
+**(Date: 23-Jan-2026)**
+
+- Practised file handling with I/O Streams across real-world scenarios like
+   - ResumeAnalyzer – Smart Resume Filtering System,
+   - TravelLog – Trip Organiser for Backpackers,
+   - FeedbackGuru – Smart Survey Analyser,
+   - CodeRepoCleaner – Java File Scanner and Organiser, and
+   - ExamScanner – Digital Answer Sheet Validator.
+- Learned to apply Regex for extracting emails, ratings, keywords, and validating formats in text, CSV, and source files.
+- Used Java Collections (List, Set, Map, PriorityQueue) to organise, group, sort, and summarise large datasets.
+- Applied Generics to design flexible, reusable systems for diverse data types and domains.
+
+🔗**Code Link:**
+👉 [Scenario-Based Practice Problems]()
+
+---
+### 📅 Day 8 – Collections Scenario-based Problems Practice
+**(Date: 24-Jan-2026)**
+
+- Practised file handling with I/O Streams across real-world scenarios like
+   - MedInventory – Smart Hospital Inventory Tracker,
+   - ChatLogParser – Messaging Pattern Analyser,
+   - SongVault – Personal Music Library Manager,
+   - ExamResultUploader – Bulk Marks Processing, and
+   - DealTracker – E-Commerce Discount Validator.
+- Gained hands-on experience using Regex to extract emails, ratings, and keywords, and to validate formats across text, CSV, and source files.
+- Utilised Java Collections (List, Set, Map, PriorityQueue) to efficiently organise, group, sort, and analyse large volumes of data.
+- Implemented Generics to build flexible and reusable solutions that support multiple data types and application domains.
+ 
+🔗**Code Link:**
+👉 [Scenario-Based Practice Problems]()
+
+---
