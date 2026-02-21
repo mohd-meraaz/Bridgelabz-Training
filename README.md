@@ -97,3 +97,20 @@
 👉 [Scenario-Based Practice Problems]()
 
 ---
+### 📅 Day 8 – Collections Scenario-based Problems Practice
+**(Date: 24-Jan-2026)**
+
+- Practised file handling with I/O Streams across real-world scenarios like
+   - MedInventory – Smart Hospital Inventory Tracker,
+   - ChatLogParser – Messaging Pattern Analyser,
+   - SongVault – Personal Music Library Manager,
+   - ExamResultUploader – Bulk Marks Processing, and
+   - DealTracker – E-Commerce Discount Validator.
+- Gained hands-on experience using Regex to extract emails, ratings, and keywords, and to validate formats across text, CSV, and source files.
+- Utilised Java Collections (List, Set, Map, PriorityQueue) to efficiently organise, group, sort, and analyse large volumes of data.
+- Implemented Generics to build flexible and reusable solutions that support multiple data types and application domains.
+ 
+🔗**Code Link:**
+👉 [Scenario-Based Practice Problems]()
+
+---
