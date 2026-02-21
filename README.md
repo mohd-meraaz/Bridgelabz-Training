@@ -274,7 +274,7 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 
 
 ---
-## 🗓 Week 3 - Data Structures and Algorithms
+# 📘 Week 3 - Data Structures and Algorithms
 
 ## Day 1: Introduction to Data Structures  
 **📅 02 January 2026**
@@ -345,7 +345,7 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 - 10. ParcelTracker – Delivery Chain Management 
 - 11. ExamProctor – Online Exam Review System
 
-## 🗓 Week 4 - Java Collections and Streams
+# 📘 Week 4 - Java Collections and Streams
 # BridgeLabz-Training
 
 ### 📅 Day 1 – Generics in Java 
@@ -463,7 +463,7 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 
 ---
 
-## 🗓 Week 5 -  IO Programming
+# 📘 Week 5 -  IO Programming
 # BridgeLabz-Training
 
 ### 📅 Day 1 – CSV Data Handling 
@@ -504,7 +504,7 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 
 ---
 
-## 🗓 Week 6: Java 8 and Its Features
+# 📘 Week 6: Java 8 and Its Features
 # BridgeLabz-Training
 
 ### 📅 Day 1 – Functional Interface and Lambda Expressions
@@ -586,7 +586,7 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 
 ---
 
-## 🗓 Week 7: Solution Designing
+# 📘 Week 7: Solution Designing
 
 # BridgeLabz-Training
 
@@ -627,7 +627,7 @@ This week focuses on understanding and implementing **Object-Oriented Programmin
 
 ---
 
-## 🗓 Week 8: MySQL and JDBC
+# 📘 Week 8: MySQL and JDBC
 # BridgeLabz-Training
 
 ### 📅 Day 1 – MySQL Problems
