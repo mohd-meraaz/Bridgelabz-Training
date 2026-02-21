@@ -25,3 +25,16 @@
 👉 [Collections Problems]()
 
 ---
+
+### 📅 Day 3 – Java Streams 
+**(Date: 19-Jan-2026)**
+
+- Implemented `Java I/O Streams` to handle file-based and in-memory data operations efficiently.
+- Worked with `File Streams`, `Object Streams`, `ByteArray Streams`, `Buffered Streams`, and `Reader/Writer classes`.
+- Understood the differences between `byte` and `character streams` for proper data handling.
+- Applied key considerations and best practices for performance, buffering, and resource management.
+
+🔗**Code Link:**
+👉 [Java Streams Problems]()
+
+---
