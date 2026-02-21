@@ -23,3 +23,18 @@
 [Multithreading Questions]()
 
 ---
+
+### 📅 Day 3 – Bank Transactions Using Multithreading
+**(Date: 03-Feb-2026)**
+
+- Solved a Java multithreading problem simulating concurrent bank transactions.
+- Implemented a thread-safe Bank class with synchronised deposit, withdrawal, and balance operations to prevent race conditions.
+- Created multiple Customer threads to perform transactions concurrently and verified correctness through final account balances.
+- This exercise strengthened my understanding of thread creation, synchronisation, and real-world concurrency handling.
+
+**🔗Code Link:**
+[Code Link]()
+
+---
+
+---
