@@ -65,5 +65,17 @@
 
 ---
 
+### 📅 Day 4 – Java 8 Logical Questions Practice
+**(Date: 31-Jan-2026)**
 
+- Java 8 `List → Map`, `Map → List`, `List ↔ Set`, and `Array ↔ Collection` conversions using Streams.
+- Object collection transformations and grouping scenarios with Java 8 Streams.
+- String-based logical problems such as `frequency count`, `filtering`, and `character processing` using streams.
+- Stream logical questions involving `filtering`, `mapping`, `sorting`, `grouping`, `partitioning`, and `reduction`.
+- Lambda Expressions, Functional Interfaces, Optional class, and Streams API applied in interview-oriented scenarios.
+
+**🔗Code Link:**
+👉[Scenario Questions]()
+
+---
 
