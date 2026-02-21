@@ -25,3 +25,15 @@
 👉 [JSON Problems]()
 
 ---
+### 📅 Day 3 – Scenario-Based Problems Practice 
+**(Date: 27-Jan-2026)**
+
+- Practised IO-Streams Scenario-Based Problems 
+- `HealthCheckPro – API Metadata Validator`: Scans API methods with custom annotations using Reflection, checks missing annotations, and auto-generates documentation.
+- `MarkMate – Student Marksheet Generator`: Reads CSV files of student marks, calculates total, average, grade, and exports JSON report cards.
+- `EventTracker – Auto Audit System`: Uses Reflection to find @AuditTrail methods and generates structured JSON logs for user actions.
+ 
+🔗**Code Link:**
+👉 [Scenario-Based Problems]()
+
+---
