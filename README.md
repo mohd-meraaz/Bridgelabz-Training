@@ -12,3 +12,16 @@
 👉 [Generics Problems]()
 
 ---
+
+### 📅 Day 2 – Java Collections Framework (JCF)
+**(Date: 16-Jan-2026)**
+
+- Explored the `Java Collections Framework` to understand its purpose, structure, and overall hierarchy.
+- Worked with core interfaces such as `List`, `Set`, `Queue`, `Deque`, and `Map` and their common implementations.
+- Compared different collection implementations based on `performance`, `ordering`, `duplication`, and `thread-safety`.
+- Applied `real-world use cases and best practices` to select the most efficient collection for specific problem scenarios.
+
+🔗**Code Link:**
+👉 [Collections Problems]()
+
+---
