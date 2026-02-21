@@ -1,40 +1,23 @@
-# Bridgelabz-Training
+# BridgeLabz-Training
+
+### 📅 Day 1 – Functional Interface and Lambda Expressions
+**(Date: 27-Jan-2026)**
+
+- Worked with `Lambda Expressions` and `Functional Interfaces` to write concise and modern Java code:
+- Understood Functional Interface (interface with only one abstract method)
+- Used built-in functional interfaces:
+  - `Predicate` – condition checking
+  - `Consumer` – performs action without return
+  - `Function` – input → output mapping
+  - `Supplier` – provides values without input
+- Applied lambdas with Collections for `filtering`, `sorting`, and `processing data`
+- Reduced boilerplate code and improved readability
+- Practised real-world scenarios using Java 8+ functional programming
+- Focused on clean, expressive, and efficient Java coding using lambdas and functional interfaces.
+
+**🔗Code Link:**
+👉 [Lambda Expression problems]() 
+👉 [Functional Interface problems]()
+👉 [Method References problems]()
+
 ---
-
-# 📘 Week 6: Java 8 & its Features
-
-This week focuses on understanding on features of java8 such as lambda expressions, functional expressions, stream API, collectors and many more..
-
----
-
-## 🗓 Day 1 – Lambda Expressions
-**📅 27 January 2026**
-
-- Learned about Lambda expressions in java8
-- Target typing & type inference in java8
-- What is Method References in java8
-
-## 🗓 Day 2 – Functional Interfaces
-**📅 27 January 2026**
-
-- Defining and Implementing Interfaces
-- Functional Interfaces
-- Default and Static Methods in Interfaces
-- Marker Interfaces
-
-## 🗓 Day 3 – Stream API
-**📅 28 January 2026**
-
-- Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
-- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
-- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
-- Ordered vs unordered streams
-- Parallel streams
-- forEach() — Iterable vs Stream
-
-## 🗓 Day 4 – Collectors
-**📅 28 January 2026**
-
-- Collectors & Its Roles and Capabilities
-- Converting Streams to Collections
-- and many more conversions
