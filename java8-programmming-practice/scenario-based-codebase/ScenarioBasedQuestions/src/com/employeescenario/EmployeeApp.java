@@ -11,7 +11,7 @@ public class EmployeeApp {
 		emp.add(new Employee(1, "Lucky", 22, "Male", "Tech", 2004, 300000.00));
 		emp.add(new Employee(5, "Priya", 18, "Female", "Sales", 2022, 60000.00));
 		emp.add(new Employee(56, "Roshni", 22, "Female", "Management", 2025, 29000.00));
-		emp.add(new Employee(277, "Prince", 22, "Male", "Sales", 2010, 29000.00));
+		emp.add(new Employee(277, "Prince", 22, "Male", "Sales", 2010, 30000.00));
 		
 		// 1. How many male and female employees are there in the organization ?
 		long maleCount = emp.stream().filter(e->e.gender.equalsIgnoreCase("male")).count();
@@ -103,15 +103,22 @@ public class EmployeeApp {
 
 
 		 emp.stream().sorted(Comparator.comparing(Employee::getSalary).reversed()).skip(1).findFirst().ifPresent(e->System.out.println(e.name));
-		
+		 System.out.println("------------------------------------------------------------------");
          //	17.Who is the third highest paid employee in the organization?
+		 emp.stream().sorted(Comparator.comparing(Employee::getSalary).reversed()).skip(2).findFirst().ifPresent(e->System.out.println(e.name));
+		 System.out.println("------------------------------------------------------------------");
 		
          //	18.Who is the lowest paid employee in the organization?
-		
+		 emp.stream().sorted(Comparator.comparing(Employee::getSalary)).findFirst().ifPresent(e->System.out.println(e.name));
+		 System.out.println("------------------------------------------------------------------");
          //	19.Who is the second lowest paid employee in the organization?
-		
+		 emp.stream().sorted(Comparator.comparing(Employee::getSalary)).skip(1).findFirst().ifPresent(e->System.out.println(e.name));
+		 System.out.println("------------------------------------------------------------------");
          //	20.Get the first five lowest paid employee in the organization?
-		
+		emp.stream().sorted(Comparator.comparing(Employee::getSalary)).limit(5).forEach(e->System.out.println(e.name));
+		System.out.println("------------------------------------------------------------------");
          //	21.Get the first five highest paid employee in the organization?
+		emp.stream().sorted(Comparator.comparing(Employee::getSalary).reversed()).limit(5).forEach(e->System.out.println(e.name));
+		System.out.println("------------------------------------------------------------------");
 	}
 }
