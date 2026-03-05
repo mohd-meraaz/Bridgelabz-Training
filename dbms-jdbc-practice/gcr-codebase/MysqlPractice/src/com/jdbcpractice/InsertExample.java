@@ -17,7 +17,7 @@ public class InsertExample {
 				System.err.println("Insert failed: " + e.getMessage());
 				e.printStackTrace();
 				}
-			
+			 
 	}
 	public static void main(String[] args) {
 		insertStudent("John Doe", "john.doe@email.com", 20, "A");
