@@ -1,0 +1,8 @@
+# Ignore macOS files
+.DS_Store
+
+# Ignore Java compiled files
+*.class
+
+#ignore all pdf files
+*.pdf
