@@ -1,5 +1,6 @@
 package com.day1.hackerrank;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class _01SimpleArraySum {
@@ -10,5 +11,17 @@ public class _01SimpleArraySum {
             sum+=val;
         }
         return sum;
+    }
+
+    static void main(String[] args) {
+
+        List<Integer> ar = new ArrayList<>();
+        ar.add(1);
+        ar.add(2);
+        ar.add(3);
+        ar.add(4);
+        ar.add(5);
+        int sum =  simpleArraySum(ar);
+        System.out.println(sum);
     }
 }
