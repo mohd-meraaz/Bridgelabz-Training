@@ -1,5 +1,6 @@
 package com.day1.hackerrank;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class _02PlusMinus {
@@ -26,5 +27,17 @@ public class _02PlusMinus {
         System.out.println(nevative/n);
         System.out.println(zero/n);
 
+    }
+
+    static void main(String[] args) {
+        List<Integer> ar = new ArrayList<>();
+        ar.add(1);
+        ar.add(-12);
+        ar.add(-13);
+        ar.add(14);
+        ar.add(15);
+        ar.add(0);
+        ar.add(0);
+        plusMinus(ar);
     }
 }
