@@ -25,7 +25,7 @@ public class _04RunningTimeAlgorithm {
         System.out.println(counter);
     }
      static void main(String[] args) {
-        
+
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
