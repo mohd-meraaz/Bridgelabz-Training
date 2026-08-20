@@ -12,8 +12,6 @@ public class EmployeeDemo {
             this.salary = salary;
         }
 
-
-
         public double getSalary() {
             return salary;
         }
