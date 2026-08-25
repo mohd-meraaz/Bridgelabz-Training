@@ -3,7 +3,7 @@ package com.day17.hackerrank;
 import java.util.Scanner;
 
 public class _01ValidUsernameRegex {
-    public static void main(String[] args) {
+     static void main() {
         Scanner Sc = new Scanner(System.in);
         int n = Sc.nextInt();
         Sc.nextLine();
